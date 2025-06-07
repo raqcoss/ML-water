@@ -1,7 +1,9 @@
 # Semi-Supervised Ensemble Learning Model
-Repository that predicts water quality of unclassified areas in Mexico, at municipality level
+**Authors**: Raquel Cossío-Ramírez, Hortencia A. Ramírez-Vázquez, Amanda M. Valdez-Calderón
 
-It contains code, data, and visualizations for predicting **water quality** in **unclassified Mexican municipalities** using **semi-supervised ensemble learning**.
+Mexico faces significant challenges in water contamination due to various factors, including natural contaminants, industrial pollution, agricultural runoff, urbanization, and overexploitation. As a result, 57% of the population lacks access to safe water.
+
+This study’s objective is to create a semi-supervised ensemble model capable of predicting water quality by municipality based on environmental factors, such as population, inundability and industrial activity.
 
 ## Overview
 
