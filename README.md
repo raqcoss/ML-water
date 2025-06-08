@@ -1,4 +1,4 @@
-# Semi-Supervised Ensemble Learning Model
+# Semi-Supervised Ensemble Learning Model for Water Quality Prediction
 **Authors**: Raquel Cossío-Ramírez, Hortencia A. Ramírez-Vázquez, Amanda M. Valdez-Calderón
 
 Mexico faces significant challenges in water contamination due to various factors, including natural contaminants, industrial pollution, agricultural runoff, urbanization, and overexploitation. As a result, 57% of the population lacks access to safe water.
