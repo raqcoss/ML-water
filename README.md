@@ -30,7 +30,7 @@ In order to predict water quality for municipalities that were not covered by me
 - **Includes**: Both labeled (classified) and unlabeled samples
 
 ![[assets/ML_inundabilidad.png]]
-**Input dataset: Flood-ability threshold according to precipitation and land permeability  \cite{CENAPRED_inundabilidad_2017}**
+**Input dataset: Flood-ability threshold according to precipitation and land permeability**
 
 ![[assets/ML_altitude.png]]
 **Input dataset: Altitude per locality**
