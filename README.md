@@ -29,4 +29,22 @@ In order to predict water quality for municipalities that were not covered by me
 - **Level**: Municipality-level indicators across Mexico
 - **Includes**: Both labeled (classified) and unlabeled samples
 
+![[assets/ML_inundabilidad.png]]
+**Input dataset: Flood-ability threshold according to precipitation and land permeability  \cite{CENAPRED_inundabilidad_2017}**
+
+![[assets/ML_altitude.png]]
+**Input dataset: Altitude per locality**
+
+![[assets/ML_agua_saneamiento.png]]
+**Input dataset: Geospatial information on municipal management of water and sanitation services**
+
+![[assets/ML_impacto.png]]
+**Input dataset: Human Impact Index on Terrestrial Biodiversity**
+
+
+![[assets/ML_agricultura.png]]
+**Input dataset: Economic activity. Agriculture, animal husbandry and farming, forestry, fishing, and hunting**
+
+![[assets/ML_constructoras.png]]
+**Input dataset: Economic activity. Construction**
 
