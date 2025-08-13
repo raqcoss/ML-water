@@ -35,8 +35,10 @@ In order to predict water quality for municipalities that were not covered by me
 ![Altitude Dataset](images/ML_altitude.png)
 **Input dataset: Altitude per locality**
 
+
 ![Water services Dataset](images/ML_agua_saneamiento.png)
 **Input dataset: Geospatial information on municipal management of water and sanitation services**
+
 
 ![Human Impact Dataset](images/ML_impacto.png)
 **Input dataset: Human Impact Index on Terrestrial Biodiversity**
